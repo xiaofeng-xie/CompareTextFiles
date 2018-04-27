@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "比较文本文件异同", "比较文本文件异同\比较文本文件异同.vbproj", "{A18581AD-7B47-4FDE-9B6B-6F0998BD00C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18581AD-7B47-4FDE-9B6B-6F0998BD00C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18581AD-7B47-4FDE-9B6B-6F0998BD00C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18581AD-7B47-4FDE-9B6B-6F0998BD00C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18581AD-7B47-4FDE-9B6B-6F0998BD00C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
